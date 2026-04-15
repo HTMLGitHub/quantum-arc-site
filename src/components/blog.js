@@ -1,4 +1,4 @@
-export function createServices()
+export function createBlogs()
 {
     return `
     <section class="blog section" id="blogs">

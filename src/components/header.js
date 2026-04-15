@@ -6,7 +6,7 @@ export function createHeader()
             <a href="#" class="header_logo">Quantum Arc</a>
 
             <nav class="header_nav">
-                <a href="#services" class="header_nav-link">Services</a>
+                <a href="#blog" class="header_nav-link">Blogs</a>
                 <a href="#about" class="header_nav-link">About</a>
                 <a href="#contact" class="header_nav-link">Contact</a>
             </nav>
