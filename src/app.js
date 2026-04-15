@@ -1,6 +1,6 @@
 import {createHeader} from './components/header.js';
 import {createHero} from './components/hero.js';
-import {createServices} from './components/services.js';
+import {createServices} from './components/blog.js';
 import {createAbout} from './components/about.js';
 import {createContact} from './components/contact.js';
 import {createFooter} from './components/footer.js';
